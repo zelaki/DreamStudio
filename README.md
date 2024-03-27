@@ -49,7 +49,7 @@ accelerate launch dreambooth_audioldm.py \
 
 #### Textual Inversion:
 
-In textual inversion you just need to specify a placeholder token, that can be any rearely used string. Here we use "<guitar>" as a placeholder token.
+In textual inversion you just need to specify a placeholder token, that can be any rarely used string. Here we use "<guitar>" as a placeholder token.
 
 ```bash
 export MODEL_NAME="audioldm-m-full"
